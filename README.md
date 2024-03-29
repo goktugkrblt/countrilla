@@ -1,6 +1,6 @@
 # Countrilla
 
-https://raw.githubusercontent.com/goktugkrblt/countrilla/main/public/app-readme.png
+(https://raw.githubusercontent.com/goktugkrblt/countrilla/main/public/app-readme.png)
 
 Countrilla is a simple web application where users can get information about a country by entering its name. This project is developed using only CSS and React.
 
