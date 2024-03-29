@@ -1,5 +1,7 @@
 # Countrilla
 
+![Açıklama](https://github.com/goktugkrblt/countrilla/tree/main/public/app-readme.png)
+
 Countrilla is a simple web application where users can get information about a country by entering its name. This project is developed using only CSS and React.
 
 Live: https://goktug.bio/countrilla/
